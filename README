@@ -1,0 +1,19 @@
+swm - slappy window manager
+============================
+swm is a goldilocks version of dwm that I made my own
+
+Requirements
+------------
+A great attitude and killer wit
+
+Patches
+-----------
+[list in progress]
+
+Version-ing[?]
+-----------
+using git tags starting at v.1
+
+Keys built in
+-----------
+MOD4 = super [alt is reserved for st terminal]
